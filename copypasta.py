@@ -1,0 +1,2 @@
+phrase = "🌤🌤 ohaiyou~~🌻🌻 good morninggg ☺️ how is your 👆🏻 sleep 🛏? i hope you slept 💤💤 well 😌 but if you didn't 😔 ... it's a sun☀️day today so it's ok 👌🏻 to sleep in 🙂🙂 i'm not quite sure 😪 if i... ᵘᵍʰ 🤕 if i should... wake up 🥱 or continue my sleep 🧸"
+phrase2 = " but... maybe i just might sleep in 😴😴 wanna join? 👀😈 heh 🫢 just kiddinggg 🤭 but have a happy sun☀️day everyone!! 👯‍♀️👯‍♀️ muah muah 🥰🥰"
